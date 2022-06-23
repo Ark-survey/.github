@@ -1,5 +1,5 @@
-## Ark Survey 计划
-代码遵循 GPL3.0 开源
+## Ark Survey Project
+Use survey to find interest data.
 
 <!--
 
